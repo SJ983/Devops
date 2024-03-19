@@ -1,0 +1,12 @@
+$ mkdir sahil
+$ git init 
+$ touch note.txt
+$ git config --global user.name ""
+$ git config --global user.email ""
+$ git status
+$ git add note.txt
+$ git restore note.txt
+$ git commit -m "1st exp Devops"
+$ git log
+$ git branch name
+$ git checkout brnachname
